@@ -1,0 +1,3 @@
+atmel_pit_timer.c:27:12:atmel_pit_get_count	8	static
+atmel_pit_timer.c:62:12:atmel_pit_ofdata_to_platdata	16	static
+atmel_pit_timer.c:38:12:atmel_pit_probe	24	static

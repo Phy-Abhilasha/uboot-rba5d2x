@@ -1,0 +1,3 @@
+clk-main.c:27:14:main_osc_clk_get_rate	0	static
+clk-main.c:16:12:main_osc_clk_enable	8	static
+clk-main.c:37:12:main_osc_clk_probe	0	static

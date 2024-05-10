@@ -1,0 +1,4 @@
+clk-system.c:22:12:at91_system_clk_bind	0	static
+clk-system.c:70:12:system_clk_enable	8	static
+clk-system.c:58:14:system_clk_set_rate	16	static
+clk-system.c:46:14:system_clk_get_rate	16	static

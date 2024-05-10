@@ -1,0 +1,3 @@
+clk-plla.c:27:14:plla_clk_get_rate	0	static
+clk-plla.c:16:12:plla_clk_enable	8	static
+clk-plla.c:37:12:plla_clk_probe	0	static

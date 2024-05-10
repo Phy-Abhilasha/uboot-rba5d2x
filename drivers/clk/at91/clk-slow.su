@@ -1,0 +1,2 @@
+clk-slow.c:11:12:at91_slow_clk_enable	0	static
+clk-slow.c:16:14:at91_slow_clk_get_rate	0	static

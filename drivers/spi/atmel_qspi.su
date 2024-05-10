@@ -1,0 +1,7 @@
+atmel_qspi.c:111:12:atmel_qspi_xfer	0	static
+atmel_qspi.c:161:1:atmel_qspi_is_flash_command_supported	0	static
+atmel_qspi.c:141:12:atmel_qspi_set_mode	8	static
+atmel_qspi.c:118:12:atmel_qspi_set_speed	16	static
+atmel_qspi.c:371:12:atmel_qspi_ofdata_to_platdata	40	static
+atmel_qspi.c:342:12:atmel_qspi_probe	32	static
+atmel_qspi.c:167:12:atmel_qspi_exec_flash_command	16	static

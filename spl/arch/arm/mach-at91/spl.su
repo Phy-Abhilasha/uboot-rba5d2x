@@ -1,0 +1,2 @@
+spl.c:15:6:at91_disable_wdt	0	static
+spl.c:30:5:spl_boot_device	8	static

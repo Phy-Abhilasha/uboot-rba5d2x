@@ -1,0 +1,5 @@
+.rugged_board_a5d2x.dtb.pre.o: \
+ arch/arm/dts/.rugged_board_a5d2x.dtb.pre.tmp include/linux/kconfig.h \
+ include/generated/autoconf.h arch/arm/dts/rb_a5d2x.dtsi \
+ arch/arm/dts/sama5d2.dtsi arch/arm/dts/skeleton.dtsi \
+ arch/arm/dts/sama5d2-pinfunc.h

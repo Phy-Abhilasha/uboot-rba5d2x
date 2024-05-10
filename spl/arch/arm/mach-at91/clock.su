@@ -1,0 +1,8 @@
+clock.c:14:6:at91_periph_clk_enable	0	static
+clock.c:37:6:at91_periph_clk_disable	0	static
+clock.c:55:6:at91_system_clk_enable	0	static
+clock.c:62:6:at91_system_clk_disable	0	static
+clock.c:69:5:at91_upll_clk_enable	16	static
+clock.c:90:5:at91_upll_clk_disable	16	static
+clock.c:108:6:at91_usb_clk_init	0	static
+clock.c:115:6:at91_pllicpr_init	0	static

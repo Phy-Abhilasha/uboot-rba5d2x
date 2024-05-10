@@ -1,0 +1,6 @@
+regmap.c:53:5:regmap_init_mem	64	static
+regmap.c:100:7:regmap_get_range	0	static
+regmap.c:111:5:regmap_uninit	8	static
+regmap.c:118:5:regmap_read	0	static
+regmap.c:127:5:regmap_write	0	static
+regmap.c:136:5:regmap_update_bits	0	static

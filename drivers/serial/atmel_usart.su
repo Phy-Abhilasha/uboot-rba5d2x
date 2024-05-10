@@ -1,0 +1,12 @@
+atmel_usart.c:203:12:atmel_serial_pending	8	static
+atmel_usart.c:191:12:atmel_serial_putc	8	static
+atmel_usart.c:181:12:atmel_serial_getc	8	static
+atmel_usart.c:172:5:atmel_serial_setbrg	16	static
+atmel_usart.c:155:6:_atmel_serial_init	8	static
+atmel_usart.c:249:12:atmel_serial_probe	24	static
+atmel_usart.c:320:1:printch	0	static
+atmel_usart.c:320:1:printascii	0	static
+atmel_usart.c:320:1:printhex2	0	static
+atmel_usart.c:320:1:printhex4	0	static
+atmel_usart.c:320:1:printhex8	0	static
+atmel_usart.c:320:1:debug_uart_init	8	static

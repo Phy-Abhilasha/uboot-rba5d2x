@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-at91/armv7/built-in.o :=  arm-poky-linux-musleabi-ld.bfd     -r -o arch/arm/mach-at91/armv7/built-in.o arch/arm/mach-at91/armv7/sama5d2_devices.o arch/arm/mach-at91/armv7/clock.o arch/arm/mach-at91/armv7/cpu.o arch/arm/mach-at91/armv7/reset.o 

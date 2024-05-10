@@ -1,0 +1,4 @@
+w1-eeprom-uclass.c:39:5:w1_eeprom_register_new_device	32	static
+w1-eeprom-uclass.c:70:5:w1_eeprom_get_id	8	static
+w1-eeprom-uclass.c:20:5:w1_eeprom_read_buf	32	static
+w1-eeprom-uclass.c:90:5:w1_eeprom_dm_init	24	static

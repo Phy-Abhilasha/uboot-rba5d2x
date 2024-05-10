@@ -1,0 +1,4 @@
+clk-plladiv.c:14:12:at91_plladiv_clk_enable	0	static
+clk-plladiv.c:38:14:at91_plladiv_clk_set_rate	24	static
+clk-plladiv.c:19:14:at91_plladiv_clk_get_rate	24	static
+clk-plladiv.c:68:12:at91_plladiv_clk_probe	0	static

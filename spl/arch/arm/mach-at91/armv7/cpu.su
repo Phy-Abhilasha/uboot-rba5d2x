@@ -1,0 +1,6 @@
+cpu.c:22:5:arch_cpu_init	0	static
+cpu.c:27:6:arch_preboot_os	0	static
+cpu.c:43:5:print_cpuinfo	40	static
+cpu.c:59:6:enable_caches	8	static
+cpu.c:67:14:get_chip_id	0	static
+cpu.c:72:14:get_extension_chip_id	0	static

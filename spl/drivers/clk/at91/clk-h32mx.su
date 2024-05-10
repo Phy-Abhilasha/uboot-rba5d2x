@@ -1,0 +1,2 @@
+clk-h32mx.c:19:14:sama5d4_h32mx_clk_get_rate	8	static
+clk-h32mx.c:38:12:sama5d4_h32mx_clk_probe	0	static

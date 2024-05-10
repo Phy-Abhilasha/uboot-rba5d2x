@@ -1,0 +1,1 @@
+cmd_examples/standalone/atmel_df_pow2 := arm-poky-linux-musleabi-ld.bfd   -g -Ttext 0xc100000 -o examples/standalone/atmel_df_pow2 -e atmel_df_pow2 examples/standalone/atmel_df_pow2.o examples/standalone/libstubs.o arch/arm/lib/lib.a

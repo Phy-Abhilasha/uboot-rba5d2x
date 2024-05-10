@@ -1,0 +1,1 @@
+cmd_spl/drivers/clk/built-in.o :=  arm-poky-linux-musleabi-ld.bfd     -r -o spl/drivers/clk/built-in.o spl/drivers/clk/clk-uclass.o spl/drivers/clk/clk_fixed_rate.o spl/drivers/clk/tegra/built-in.o spl/drivers/clk/at91/built-in.o 

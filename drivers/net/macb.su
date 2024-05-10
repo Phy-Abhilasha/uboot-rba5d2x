@@ -1,0 +1,17 @@
+macb.c:166:13:macb_mdio_write	0	static
+macb.c:193:12:macb_mdio_read	0	static
+macb.c:363:13:reclaim_rx_buffers	16	static
+macb.c:1024:12:macb_free_pkt	8	static
+macb.c:1007:12:macb_send	24	static
+macb.c:1132:12:macb_eth_remove	8	static
+macb.c:1033:13:macb_stop	8	static
+macb.c:1040:12:macb_write_hwaddr	16	static
+macb.c:1014:12:macb_recv	40	static
+macb.c:1089:12:macb_eth_probe	32	static
+macb.c:223:13:arch_get_mdio_control	0	static
+macb.c:230:5:macb_miiphy_read	24	static
+macb.c:250:5:macb_miiphy_write	24	static
+macb.c:496:12:macb_linkspd_cb	0	static
+macb.c:1002:12:macb_start	40	static
+macb.c:1151:12:macb_late_eth_ofdata_to_platdata	0	static
+macb.c:1156:12:macb_eth_ofdata_to_platdata	16	static

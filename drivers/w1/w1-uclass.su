@@ -1,0 +1,8 @@
+w1-uclass.c:194:12:w1_post_probe	64	static
+w1-uclass.c:107:5:w1_get_bus	32	static
+w1-uclass.c:128:4:w1_get_device_family	8	static
+w1-uclass.c:135:5:w1_reset_select	24	static
+w1-uclass.c:155:5:w1_read_byte	8	static
+w1-uclass.c:166:5:w1_read_buf	16	static
+w1-uclass.c:181:5:w1_write_byte	8	static
+w1-uclass.c:201:5:w1_init	32	static

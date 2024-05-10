@@ -1,0 +1,6 @@
+rugged_board_a5d2x.c:28:5:board_late_init	8	static
+rugged_board_a5d2x.c:47:6:board_debug_uart_init	8	static
+rugged_board_a5d2x.c:54:5:board_early_init_f	8	static
+rugged_board_a5d2x.c:64:5:board_init	8	static
+rugged_board_a5d2x.c:76:5:dram_init	8	static
+rugged_board_a5d2x.c:86:5:misc_init_r	8	static

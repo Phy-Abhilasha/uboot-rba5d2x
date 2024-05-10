@@ -1,0 +1,1 @@
+cmd_dts/dt-spl.dtb := ./tools/fdtgrep -b u-boot,dm-pre-reloc -b u-boot,dm-spl -RT arch/arm/dts/rugged_board_a5d2x.dtb -n /chosen -n /config -O dtb | ./tools/fdtgrep -r -O dtb - -o dts/dt-spl.dtb -P interrupts -P interrupt-parent -P dmas -P dma-names

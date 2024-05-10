@@ -1,0 +1,6 @@
+clock.c:55:5:at91_clock_init	16	static
+clock.c:115:6:at91_plla_init	0	static
+clock.c:124:6:at91_mck_init	0	static
+clock.c:158:6:at91_mck_init_down	0	static
+clock.c:194:5:at91_enable_periph_generated_clk	16	static
+clock.c:257:5:at91_get_periph_generated_clk	8	static

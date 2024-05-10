@@ -1,0 +1,3 @@
+clk-peripheral.c:28:12:sam9x5_periph_clk_bind	0	static
+clk-peripheral.c:54:12:periph_clk_enable	16	static
+clk-peripheral.c:80:14:periph_get_rate	16	static

@@ -1,0 +1,7 @@
+w1-gpio.c:62:13:w1_gpio_write_bit	16	static
+w1-gpio.c:75:13:w1_gpio_write_byte	16	static
+w1-gpio.c:32:13:w1_gpio_read_bit	8	static
+w1-gpio.c:123:11:w1_gpio_triplet	16	static
+w1-gpio.c:51:11:w1_gpio_read_byte	16	static
+w1-gpio.c:83:13:w1_gpio_reset	8	static
+w1-gpio.c:152:12:w1_gpio_ofdata_to_platdata	16	static

@@ -1,0 +1,7 @@
+at91_i2c.c:214:5:at91_i2c_get_bus_speed	8	static
+at91_i2c.c:151:13:at91_calc_i2c_clock	24	static
+at91_i2c.c:203:12:at91_i2c_set_bus_speed	16	static
+at91_i2c.c:24:12:at91_wait_for_xfer	24	static
+at91_i2c.c:107:12:at91_i2c_xfer	24	static
+at91_i2c.c:221:12:at91_i2c_ofdata_to_platdata	24	static
+at91_i2c.c:241:12:at91_i2c_probe	32	static

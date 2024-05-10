@@ -1,0 +1,2 @@
+atmel_sdhci.c:54:12:atmel_sdhci_probe	32	static
+atmel_sdhci.c:106:12:atmel_sdhci_bind	8	static

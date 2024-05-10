@@ -1,0 +1,4 @@
+pmc.c:35:5:at91_pmc_core_probe	16	static
+pmc.c:52:5:at91_clk_sub_device_bind	48	static
+pmc.c:89:5:at91_clk_of_xlate	16	static
+pmc.c:108:5:at91_clk_probe	16	static

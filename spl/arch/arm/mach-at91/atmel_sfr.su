@@ -1,0 +1,2 @@
+atmel_sfr.c:12:6:redirect_int_from_saic_to_aic	0	static
+atmel_sfr.c:23:6:configure_2nd_sram_as_l2_cache	0	static

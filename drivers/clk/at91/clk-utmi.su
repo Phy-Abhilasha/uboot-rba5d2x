@@ -1,0 +1,4 @@
+clk-utmi.c:94:14:utmi_clk_get_rate	0	static
+clk-utmi.c:22:12:utmi_clk_enable	40	static
+clk-utmi.c:105:12:utmi_clk_ofdata_to_platdata	24	static
+clk-utmi.c:119:12:utmi_clk_probe	0	static

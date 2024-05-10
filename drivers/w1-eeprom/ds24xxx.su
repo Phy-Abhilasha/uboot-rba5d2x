@@ -1,0 +1,2 @@
+ds24xxx.c:18:12:ds24xxx_read_buf	24	static
+ds24xxx.c:30:12:ds24xxx_probe	8	static

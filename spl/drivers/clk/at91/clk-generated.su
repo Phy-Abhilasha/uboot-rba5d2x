@@ -1,0 +1,4 @@
+clk-generated.c:25:12:generated_clk_bind	0	static
+clk-generated.c:76:14:generic_clk_set_rate	72	static
+clk-generated.c:48:14:generic_clk_get_rate	24	static
+clk-generated.c:149:12:generic_clk_ofdata_to_platdata	48	static

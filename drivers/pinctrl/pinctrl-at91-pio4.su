@@ -1,0 +1,2 @@
+pinctrl-at91-pio4.c:107:12:atmel_pinctrl_set_state	200	static
+pinctrl-at91-pio4.c:154:12:atmel_pinctrl_probe	16	static

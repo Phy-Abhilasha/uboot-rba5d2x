@@ -1,0 +1,6 @@
+atmel_spi.c:216:12:atmel_spi_set_mode	8	static
+atmel_spi.c:207:12:atmel_spi_set_speed	8	static
+atmel_spi.c:79:12:atmel_spi_release_bus	8	static
+atmel_spi.c:39:12:atmel_spi_claim_bus	16	static
+atmel_spi.c:119:12:atmel_spi_xfer	40	static
+atmel_spi.c:263:12:atmel_spi_probe	40	static
